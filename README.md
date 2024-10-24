@@ -64,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/null5h4rk/null5h4rk/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
